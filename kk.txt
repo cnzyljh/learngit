@@ -1,5 +1,0 @@
-sdkfj a master
-woshi  fenzhi 
-woshidisanfenzhi
-----no-ff
-git di free software
